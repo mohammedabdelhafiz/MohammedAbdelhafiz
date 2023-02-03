@@ -1,9 +1,8 @@
-[!MasterHead](https://www.pinterest.com/pin/519532506989808918/)
 <h1 align="center">Hi 👋, I'm Mohammed Abdelhafiz</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedabdelhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedabdelhafiz" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedabdelhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedabdelhafiz" /> </p>
+<img align="middle" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedabdelhafiz" alt="mohammedabdelhafiz" /></a> </p>
 
 - 🔭 I’m currently working on **Rental Apartment Project**
